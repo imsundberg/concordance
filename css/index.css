@@ -1,0 +1,118 @@
+#footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+#content {
+	padding: 5px 15px;
+	margin: 0px 0px 100px 0px;
+}
+
+#space {
+	padding: 5px;
+}
+
+#img {
+	width: 100%;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+
+#img-container {
+	margin: 25px 15%;
+}
+
+#img-container-research {
+	margin: 15px;
+	max-width: 146px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+#img_research {
+	width: 100%;
+}
+
+#img_involvement {
+	width: 100%;
+	padding: 5px;
+}
+
+#img_code {
+	width: 65%;
+	padding: 5px;
+}
+
+#dspace {
+	padding: 20px 0px 0px 0px;
+}
+
+.navbar {
+	border-radius: 0px;	
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+	background-image: url('https://concordance.github.io/files/jumbo.png');
+	background-size: cover;
+	background-position: 0 50%;
+}
+
+.jumbotron .a {
+	color: white;
+}
+
+.ind {
+	text-indent: -85px; padding: 0px 0px 0px 85px
+}
+
+a.dropdown-item {
+	text-decoration: none;
+	color: black;
+}
+
+th{
+	font-weight: normal;
+}
+
+tr {
+	font-weight: normal;
+	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+	border-collapse: collapse;
+}
+
+td {
+	padding: 3px 0px 3px 3px;
+}
+
+th {
+	padding: 3px 0px 3px 3px;
+}
+
+.tooltip {
+	position: relative;
+	display: inline-block;
+	opacity: 1;
+}
+
+.tooltip .tooltiptext {
+	visibility: hidden;
+	width: 120px;
+	color: black;
+	text-align: center;
+	padding: 8px 0;
+	position: inherit;
+	z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
