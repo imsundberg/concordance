@@ -58,6 +58,10 @@ table, th, td {
   border: 1px solid black;
 }
 
+td, th {
+  padding: 3px 10px;	
+}
+
 .navbar {
 	border-radius: 0px;	
 }
