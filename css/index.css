@@ -54,11 +54,11 @@
 	padding: 20px 0px 0px 0px;
 }
 
-table, th, td {
+table, th, td, tr {
   border: 1px solid black;
 }
 
-td, th {
+td, th, tr {
   padding: 3px 10px;	
 }
 
