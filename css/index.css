@@ -58,7 +58,7 @@ table, th, td, tr {
   border: 1px solid black;
 }
 
-th, tr {
+th, tr, td {
   padding: 3px 10px;	
 }
 
